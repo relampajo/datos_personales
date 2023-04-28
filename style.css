@@ -1,0 +1,12 @@
+body{
+    background-image: url(messi.jpg);
+}
+
+h1{
+    color:aqua;
+    text-align: center;
+}
+
+label{
+    color: aqua;
+}
